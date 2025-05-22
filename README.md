@@ -7,6 +7,6 @@ pip install -r requirements.txt
 
 ## Run steamlit app
 ```
-cd Submission
+cd Bike-Rent-Dashboard
 streamlit run dashboard/dashboard.py
 ```
